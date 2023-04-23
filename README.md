@@ -1,7 +1,7 @@
 
-<h1 align="center">Hello 👋, I'm Harshda Mhase</h1><br>  
-<h2 align="center">About me:<h2><br>
-  <h3 align="center">💫 I'm learning Full stack web development</h3><br>
+<h1 align="center">Hello 👋, I'm Harshda Mhase</h1>  
+<h2 align="center">About me:<h2>
+  <h3 align="center">💫 I'm learning Full stack web development</h3>
 
 
 ## 🌐 Socials:
