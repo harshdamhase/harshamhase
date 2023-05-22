@@ -1,6 +1,5 @@
-<h1> Hello < Developers/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<h1 align="center">Hello 👋, I'm Harshda Mhase</h1>  
+<h1 align="center">Hello Developers👋, I'm Harshda Mhase</h1>  
 <h2 align="center">About me:<h2>
   <h3 align="center">💫 I'm learning Full stack web development</h3>
 
